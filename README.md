@@ -5,6 +5,9 @@
 bdnetdisk://n/action.HUO_DONG?type=invitation&url=https://pan.baidu.com/component/view/2321?from=dd  
 * 将以上链接复制进入百度网盘app即可自动跳转到会员领取界面。每个月都能用一次，一次有效期两天。到2022年12月31日23:59前可用  
 
+## 腾讯视频会员红包
+https://film.video.qq.com/h5/high-grade-gift/middle.html?s_vuid=149766970&s_red_id=65f93d12-1917-4717-ad96-78c82eb9df1c&url_from=share&second_share=0&share_from=copy  
+
 ## office  
 https://vn-z.vn/threads/tong-hop-key-windows-va-office.10945/page-1190  
 https://chitachok.fun/threads/72022/page-204  
