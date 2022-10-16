@@ -20,14 +20,14 @@ https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwAXiCyQjsaPduo
 https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwxqkUR4KRCfGio768rFlTLwmd&VNK=e6cf291f
 https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwK2SUxwQXLkntLjROrkKpagmd&VNK=d1230c16
 * 激活码：  
-BB7B-A4AA-E75F-F4CB
-FDBE-F3A4-75E8-EEED
-CD64-619A-9C64-D7A2
-4BBC-FBB2-D8B3-2090
-6C0E-B3B9-69CC-0742
-ECE4-D8CF-3C39-935A
-4FEA-5AC6-A7BB-0A55
-9899-E247-0F47-D70C
+BB7B-A4AA-E75F-F4CB  
+FDBE-F3A4-75E8-EEED  
+CD64-619A-9C64-D7A2  
+4BBC-FBB2-D8B3-2090  
+6C0E-B3B9-69CC-0742  
+ECE4-D8CF-3C39-935A  
+4FEA-5AC6-A7BB-0A55  
+9899-E247-0F47-D70C  
 
 ## office  
 https://vn-z.vn/threads/tong-hop-key-windows-va-office.10945/page-1190  
