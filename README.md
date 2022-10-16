@@ -11,6 +11,24 @@ https://film.video.qq.com/h5/high-grade-gift/middle.html?s_vuid=149766970&s_red_
 ## 爱奇艺红包
 https://vip.iqiyi.com/html5VIP/activity/hongbao_h5/index.html?redNo=39163751286c3094202210016750&fv=&p1=2_22_222&social_platform=link&_psc=b145dda5f560472ca74299cc773189a3  
 
+## 爱企查会员
+* 一年会员：  
+https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTw0BoIP2UNSTjtO92aDFpCGwmd&VNK=0be9cfe8
+https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwvNzjoclsAzSus4W3jBzDZwmd&VNK=ae662888
+* 一个月会员：  
+https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwAXiCyQjsaPduoudzqtExkgmd&VNK=b6f76dac
+https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwxqkUR4KRCfGio768rFlTLwmd&VNK=e6cf291f
+https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTwK2SUxwQXLkntLjROrkKpagmd&VNK=d1230c16
+* 激活码：  
+BB7B-A4AA-E75F-F4CB
+FDBE-F3A4-75E8-EEED
+CD64-619A-9C64-D7A2
+4BBC-FBB2-D8B3-2090
+6C0E-B3B9-69CC-0742
+ECE4-D8CF-3C39-935A
+4FEA-5AC6-A7BB-0A55
+9899-E247-0F47-D70C
+
 ## office  
 https://vn-z.vn/threads/tong-hop-key-windows-va-office.10945/page-1190  
 https://chitachok.fun/threads/72022/page-204  
