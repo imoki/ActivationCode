@@ -35,3 +35,7 @@ https://chitachok.fun/threads/72022/page-204
 
 ## JetBrains（IntelliJ IDEA）
 https://www.kelongwo.com/jetbrains-2/  
+
+## windows11激活密钥
+* 专业版  
+FXVTP-XNB9F-3VTP4-XGWV4-K4Q3Q  
