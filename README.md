@@ -41,6 +41,7 @@ https://www.kelongwo.com/jetbrains-2/
 ## windows11激活密钥
 * 专业版  
 FXVTP-XNB9F-3VTP4-XGWV4-K4Q3Q  
+8G7XN-V7YWC-W8RPC-V73KB-YWRDB  
 
 ## windows8.1激活密钥
 9CP6G-MN463-HBVJT-PYXRC-HH4X3  
