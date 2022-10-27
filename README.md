@@ -17,6 +17,9 @@ https://pan.baidu.com/component/view?id=4905
 ## 腾讯视频会员红包
 https://film.video.qq.com/h5/high-grade-gift/middle.html?s_vuid=149766970&s_red_id=65f93d12-1917-4717-ad96-78c82eb9df1c&url_from=share&second_share=0&share_from=copy  
 
+## QQ音乐VIP体验券  
+https://c.y.qq.com/base/fcgi-bin/u?__=TtzIBhstdbfO  
+
 ## 爱奇艺红包
 https://vip.iqiyi.com/html5VIP/activity/hongbao_h5/index.html?redNo=39163751286c3094202210016750&fv=&p1=2_22_222&social_platform=link&_psc=b145dda5f560472ca74299cc773189a3  
 https://vip.iqiyi.com/html5VIP/activity/hongbao_h5/index.html?redNo=b0d8fec728c148b0202210018369&fv=&p1=2_22_222&social_platform=link&_psc=b62ce0b507264711bada1130f05061d9  
