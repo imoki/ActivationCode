@@ -20,6 +20,10 @@ https://film.video.qq.com/h5/high-grade-gift/middle.html?s_vuid=149766970&s_red_
 ## QQ音乐VIP体验券  
 https://c.y.qq.com/base/fcgi-bin/u?__=TtzIBhstdbfO  
 
+## 网易云音乐会员礼品卡  
+https://music.163.com/prime/m/gift-receive?p=45pYYjgBYVBTJWAGHEOYpI87xH2XCiF45Cb-_ZrwZ64VSWMJYpbEvreZxfDlMsVK0UTtUVXM2t7KmdxkUZPKzhjei3PjrD0L5rPTe2O4QC0&d=AnFgcyxeVmWqahcCGi7QGA  
+https://music.163.com/prime/m/gift-receive?p=0t_SCDTne-7ZdzzlN_NUnKgaFzEWfcsUx_bVx_ed6HM043oPQOoZYyW-rB_boof1shVyJpifQvsh0ZyxPYRpTDCvM-LI7vDD0PEVX8NmemM&d=IMJX2CLa9TY8qXGTEXU  
+
 ## 爱奇艺红包
 https://vip.iqiyi.com/html5VIP/activity/hongbao_h5/index.html?redNo=39163751286c3094202210016750&fv=&p1=2_22_222&social_platform=link&_psc=b145dda5f560472ca74299cc773189a3  
 https://vip.iqiyi.com/html5VIP/activity/hongbao_h5/index.html?redNo=b0d8fec728c148b0202210018369&fv=&p1=2_22_222&social_platform=link&_psc=b62ce0b507264711bada1130f05061d9  
