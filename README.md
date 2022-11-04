@@ -64,6 +64,7 @@ https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activati
 * 专业版  
 FXVTP-XNB9F-3VTP4-XGWV4-K4Q3Q  
 8G7XN-V7YWC-W8RPC-V73KB-YWRDB  
-
+## Win 10 RTM Professional专业版 
+97MJN-D6RKJ-TKTD8-HBK3M-3GPKM 
 ## windows8.1激活密钥
 9CP6G-MN463-HBVJT-PYXRC-HH4X3  
