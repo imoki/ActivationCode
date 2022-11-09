@@ -60,6 +60,11 @@ https://www.kelongwo.com/jetbrains-2/
 * Key Management Services (KMS)  
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys  
 
+## windows11激活密钥
+* 专业版  
+FXVTP-XNB9F-3VTP4-XGWV4-K4Q3Q  
+8G7XN-V7YWC-W8RPC-V73KB-YWRDB  
+
 ## windows10密钥   
 * 专业版  
 6F79W-BNPHY-M34XH-P7DYH-T3BQB  
@@ -68,12 +73,8 @@ N6PTX-6W4VG-38BQX-GWQXP-PGYP6
 MXFWC-JNH8T-YPP4B-Y6K9Q-B98XG  
 R9JR6-NDH8V-WG3VC-X7DD2-2DKTT  
 GNJQR-2GJD9-BG8BF-4J2C7-KHJXG  
-
-## windows11激活密钥
-* 专业版  
-FXVTP-XNB9F-3VTP4-XGWV4-K4Q3Q  
-8G7XN-V7YWC-W8RPC-V73KB-YWRDB  
-## Win 10 RTM Professional专业版 
+* RTM Professional专业版 
 97MJN-D6RKJ-TKTD8-HBK3M-3GPKM 
+
 ## windows8.1激活密钥
 9CP6G-MN463-HBVJT-PYXRC-HH4X3  
