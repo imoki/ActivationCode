@@ -55,11 +55,10 @@ https://chitachok.fun/threads/72022/page-204
 
 ## JetBrains（IntelliJ IDEA）
 https://www.kelongwo.com/jetbrains-2/  
-
-## 在线KMS激活脚本查询  
-* https://kms.cx/
-
+  
 ## windows密钥  
+* 在线KMS激活脚本查询  
+https://kms.cx/  
 * Key Management Services (KMS)  
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys  
 
