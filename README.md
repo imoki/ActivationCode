@@ -56,6 +56,9 @@ https://chitachok.fun/threads/72022/page-204
 ## JetBrains（IntelliJ IDEA）
 https://www.kelongwo.com/jetbrains-2/  
 
+## 在线KMS激活脚本查询  
+* https://kms.cx/
+
 ## windows密钥  
 * Key Management Services (KMS)  
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys  
@@ -64,6 +67,10 @@ https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activati
 * 专业版  
 FXVTP-XNB9F-3VTP4-XGWV4-K4Q3Q  
 8G7XN-V7YWC-W8RPC-V73KB-YWRDB  
+PRHJX-GR6B2-MDB28-F8XR3-K7TQR  
+6WVTQ-CNYDR-P2KRT-W6J4T-J2QGP  
+J3F7N-8FRYR-7QQJR-GHQYJ-GVJVF  
+NDFKW-K68MK-262C8-JMJKM-2PQGY  
 
 ## windows10密钥   
 * 专业版  
